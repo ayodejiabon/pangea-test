@@ -1,0 +1,3 @@
+publisher/node_modules/
+subscriber/node_modules/
+*.env
